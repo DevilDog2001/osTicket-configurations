@@ -29,43 +29,58 @@ This tutorial outlines the configuration of the open-source help desk ticketing 
 <img src="https://i.imgur.com/xc4u9sF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+Welcome to the configuration portion of the osTicket Lab. To start off this portion we will click on staff link on the right hand side and see this page appear. Login to the credentials created for the user_admin.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/X6a3pHd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3RdJRJl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-These two Azure services will be are foundation for the assignment.
+Now that we are logged into the account make sure that we are in the admin panel. From the admin panel we will head to the <strong>Agents tab --> then select Roles --> and add a new role.</strong> Next name the role whatever you like for the Lab, after head over to the permissions and give that role all the permissions from Ticket Tasks and Knowledgebase. After that save changes and see the role appear within the roles.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/ptK2HmK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H6r3Jz1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+Once we finish creating are new role we will head over to create a new department. From the same agents tab select <strong>Departments --> then add Department</strong>, from there name the department whatever you would like for the lab. After creating a name select create Dept and leave everything defualt. You should see the new Department within the Department list
 </p>
 <br />
-<img src="https://i.imgur.com/bukNp8Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JWnS4pc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-. 
+Once we finish creating are new Department we will head over to create a new Team. From the same agents tab select <strong>Teams --> then add Team</strong>, from there name the Team whatever you may like for the Lab. After go over to Members and add your created user to the team, once added create the team.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/UyaZ78o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m4ufuUM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+Next we want to head over to settings Tab to allow any user to create tickets. Having the setting like so will allow users to create tickets without logging on.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/l6gf9jk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After setting the user's, move on over to the Agents Tab and select to add a new agent. Create 2 agents as shown above. repeat that same step for the second agent and then move on to giving the agent a Primary Department, permissions, and a team.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/Md4ZLyA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once we have created are agents, we will switch over to the agents panel. From the agents panel we will create 2 new users as showen above. To get over we will select <strong>Agent panel on the top right --> Then select Users --> and once we are inside we select create user.</strong>
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/GLPC2p2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+.
+</p>
 <br />
 <p>
 This will conclude the Configurations for the osTicket Lab. The next section we will begin to use osTicket and begin with Ticket Lifecycle. Next section <a href='https://github.com/DevilDog2001/ticket-lifecycle'>Ticket Lifecycle</a> .
