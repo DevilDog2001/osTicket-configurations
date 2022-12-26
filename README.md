@@ -76,10 +76,17 @@ Once we have created are agents, we will switch over to the agents panel. From t
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/GLPC2p2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MJg4MRI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+Now after creating are users we can head over back to the admin panel to create are SLA's. Once we are in the admin panel and have selected SLA, select create SLA. From there we will create the 3 following SLA'S, SEV-A(1 hour.24/7),SEV-B(8 hour.24/7),SEV-C(8 hour,Business hours) 
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/K7weuRP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After creating the 3 SLA's we will now navigate over to the Help Topics. There we will add 4 new Help Topics. Those 4 new Help Topics are <strong>Business Critical Outage, Personal Computer Issues, Equipment Request and Password Reset.</strong> Above shows the page in where we will enter the information.
 </p>
 <br />
 <p>
