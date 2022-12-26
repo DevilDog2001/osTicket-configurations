@@ -72,7 +72,7 @@ After setting the user's, move on over to the Agents Tab and select to add a new
 <img src="https://i.imgur.com/Md4ZLyA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once we have created are agents, we will switch over to the agents panel. From the agents panel we will create 2 new users as showen above. To get over we will select <strong>Agent panel on the top right --> Then select Users --> and once we are inside we select create user.</strong>
+Once we have created are agents, we will switch over to the agents panel. From the agents panel we will create 2 new users as shown above. To get over we will select <strong>Agent panel on the top right --> Then select Users --> and once we are inside we select create user.</strong>
 </p>
 <br />
 <p>
