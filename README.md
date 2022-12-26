@@ -90,5 +90,12 @@ After creating the 3 SLA's we will now navigate over to the Help Topics. There w
 </p>
 <br />
 <p>
+<img src="https://i.imgur.com/emfAIp4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now after adding those new Help Topics, lets logout of the Staff osTicket and log into the user page. The user page will allow us to create Tickets to send over to are Staff, here's the link to copy down and paste on your browser to enter the user page shown above. <strong>(http://localhost/osTicket/index.php)</strong>
+</p>
+<br />
+<p>
 This will conclude the Configurations for the osTicket Lab. The next section we will begin to use osTicket and begin with Ticket Lifecycle. Next section <a href='https://github.com/DevilDog2001/ticket-lifecycle'>Ticket Lifecycle</a> .
 </p>
