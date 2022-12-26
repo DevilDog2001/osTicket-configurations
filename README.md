@@ -79,7 +79,7 @@ Once we have created are agents, we will switch over to the agents panel. From t
 <img src="https://i.imgur.com/MJg4MRI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now after creating are users we can head over back to the admin panel to create are SLA's. Once we are in the admin panel and have selected SLA, select create SLA. From there we will create the 3 following SLA'S, SEV-A(1 hour.24/7),SEV-B(8 hour.24/7),SEV-C(8 hour,Business hours) 
+Now after creating are users we can head over back to the admin panel to create are SLA's. Once we are in the admin panel and have selected SLA, select create SLA. From there we will create the 3 following SLA'S <strong>SEV-A(1 hour.24/7),SEV-B(8 hour.24/7),SEV-C(8 hour,Business hours)</strong> 
 </p>
 <br />
 <p>
